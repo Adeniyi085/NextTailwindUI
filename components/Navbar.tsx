@@ -34,7 +34,7 @@ padding-container relative z-30 oy-5'>
         alt="menu"
         width={32}
         height={32}
-        className='inline-block cursor-pointer lg:hidden'
+        className='inline-block cursor-pointer lg:hidden '
     />
 </nav>
   ) 
